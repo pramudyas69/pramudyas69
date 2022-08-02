@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pramudyas69
+- 👋 Hi, I’m Pandu Pramudya
 - 👀 I’m interested in backend developer
 
 <!---
