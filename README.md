@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/amazon_web_services-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/-google_cloud_platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://raw.githubusercontent.com/pramudyas69/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/pramudyas69/github-stats/master/generated/languages.svg#gh-light-mode-only)
